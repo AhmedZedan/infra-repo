@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: apache-container
-  image: nginx:0.0.6351
+      image: nginx:0.0.6351
       ports:
         - containerPort: 80
